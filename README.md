@@ -1,1 +1,1 @@
-# Gitalk comments repo for z3mu@github.io
+# Gitalk comments repo for z3mu.github.io
